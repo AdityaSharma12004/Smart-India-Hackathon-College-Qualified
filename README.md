@@ -1,6 +1,6 @@
 # 🌦️ Smart India Hackathon - Weather Dashboard
 
-This project is a **AQI DETECTOR** built using [Next.js](https://nextjs.org) and qualified at the **college level** for **Smart India Hackathon 2025**. It displays real-time weather data based on city input or geolocation.
+This project is a **AQI DETECTOR** built using [Next.js](https://nextjs.org) and qualified at the **college level** for **Smart India Hackathon 2024**. It displays real-time weather data based on city input or geolocation.
 
 ---
 
